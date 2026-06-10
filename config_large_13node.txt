@@ -1,0 +1,8 @@
+C1,sudo ./MNLR -T 1 -L 1.1 -N 1
+C2,sudo ./MNLR -T 1 -L 1.2 -N 1
+D1,sudo ./MNLR -T 2 -N 1
+D2,sudo ./MNLR -T 2 -N 1
+D3,sudo ./MNLR -T 2 -N 1
+A1,sudo ./MNLR -T 3 -N 0 192.168.1.254 24 eth3
+A2,sudo ./MNLR -T 3 -N 0 192.168.2.254 24 eth2
+A3,sudo ./MNLR -T 3 -N 0 192.168.3.254 24 eth3
